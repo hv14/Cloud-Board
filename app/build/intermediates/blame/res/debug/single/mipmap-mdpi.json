@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher.png",
+        "source": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/mipmap-mdpi/ic_launcher_round.png",
+        "source": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    }
+]

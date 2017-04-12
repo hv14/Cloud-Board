@@ -1,0 +1,7 @@
+#Tue Apr 11 17:02:12 CDT 2017
+base.0=/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3ca7d78f2a942cd1b4bd974e5bc5f2be6262fb49
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f01d32c88fdd067e31cc9391a58a6e71496724e3/classes.dex
+base.1=/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f01d32c88fdd067e31cc9391a58a6e71496724e3
+file.0=/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3ca7d78f2a942cd1b4bd974e5bc5f2be6262fb49/classes.dex

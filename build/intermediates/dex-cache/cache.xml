@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3ca7d78f2a942cd1b4bd974e5bc5f2be6262fb49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7ec85bb840be275c02ed043ea1766bf6db0ae816">
+        <dex dex="/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f01d32c88fdd067e31cc9391a58a6e71496724e3/classes.dex" />
+    </item>
+
+</items>

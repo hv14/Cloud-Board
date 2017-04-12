@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/drawable-v21/abc_edit_text_material.xml",
+        "source": "/Users/himonal/.android/build-cache/b43a33f44ad518d560e5b737e7a7a5719294f3c0/output/res/drawable-v21/abc_edit_text_material.xml"
+    },
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/drawable-v21/abc_action_bar_item_background_material.xml",
+        "source": "/Users/himonal/.android/build-cache/b43a33f44ad518d560e5b737e7a7a5719294f3c0/output/res/drawable-v21/abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/drawable-v21/abc_btn_colored_material.xml",
+        "source": "/Users/himonal/.android/build-cache/b43a33f44ad518d560e5b737e7a7a5719294f3c0/output/res/drawable-v21/abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "/Users/himonal/AndroidStudioProjects/CloudBoardv1/app/build/intermediates/res/merged/debug/drawable-v21/notification_action_background.xml",
+        "source": "/Users/himonal/.android/build-cache/b43a33f44ad518d560e5b737e7a7a5719294f3c0/output/res/drawable-v21/notification_action_background.xml"
+    }
+]
